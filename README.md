@@ -28,13 +28,20 @@ Capillary dataset
     
 ```
 ## 🧪 Evaluation
+### Morphology detection
+How to run the code to train:
+```bash
+python start_train.py --model ./ultralytics/cfg/models/v8/yolov8n_ECA.yaml --data_dir ./datasets/nailfold/data/data.yaml
+```
+Change the links of --model and --data_dir with your links.
+### Diabetics classification
 
 ##### Setting up Conda Environment
 
 
 ## 📄 License
 
-Dataset licensed under a [APACHE 2.0 License](./LICENSE).
+Dataset licensed under a [APACHE 2.0 License].
 
 ## 🎓 Citing 
 
