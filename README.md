@@ -4,7 +4,7 @@
 [Hang Thi Phuong Nguyen], [Hieyong Jeong]   
 KDD '25              
 [Paper](https://doi.org/10.1145/3711896.3737425) | [Capillary Dataset](https://huggingface.co/datasets/HanaNguyen/Capillary-Dataset)
-<img src="fig4.PNG" alt="capillary_dataset" style="zoom:67%;" />
+<img src="fig4.png" alt="capillary_dataset" style="zoom:67%;" />
 ## 🗄️ Dataset
 [Capillary Dataset](https://huggingface.co/datasets/HanaNguyen/Capillary-Dataset)
 The dataset are structured as follows:
