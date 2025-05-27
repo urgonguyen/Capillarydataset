@@ -1,4 +1,4 @@
-path: './hang/yolov8_bk_ECA_p2/datasets/nailfold/data'
+path: './hang/improved_yolov8_morphology/datasets/nailfold/data'
 train: 'images/train_aug'
 val: 'images/val'
 #val: 'images/test'
