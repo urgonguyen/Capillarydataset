@@ -36,7 +36,6 @@ python start_train.py --model ./ultralytics/cfg/models/v8/yolov8n_ECA.yaml --dat
 Change the links of --model and --data_dir with your links.
 ### Diabetics classification
 
-##### Setting up Conda Environment
 
 
 ## 📄 License
