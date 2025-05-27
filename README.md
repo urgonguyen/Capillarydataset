@@ -46,7 +46,7 @@ Dataset licensed under a [APACHE 2.0 License](./LICENSE).
 ## 🎓 Citing 
 
 ```
-@article{pramanick2024spiqa,
+@article{hang2025capillary,
   title={Capillary Dataset: A dataset of nail-fold capillaries captured by microscopy for diabetes detection},
   author={Hang Thi Phuong Nguyen, Hieyong Jeong},
   journal={Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2 (KDD ’25)},
