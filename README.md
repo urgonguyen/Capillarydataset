@@ -27,11 +27,16 @@ Capillary dataset
         └── healthy_subjects
     
 ```
-## 🧪 Evaluation
+## 🧪 Train
 ### Morphology detection
 How to run the code to train:
 ```bash
 python start_train.py --model ./ultralytics/cfg/models/v8/yolov8n_ECA.yaml --data_dir ./datasets/nailfold/data/data.yaml
+```
+
+How to predict:
+```bash
+yolo predict model=runs/detect/train15_p2_ECA/weights/best.pt source='' imgsz=640
 ```
 Change the links of --model and --data_dir with your links.
 ### Diabetics classification
