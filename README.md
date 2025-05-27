@@ -5,13 +5,6 @@
 KDD '25              
 [Paper](https://doi.org/10.1145/3711896.3737425) | [Capillary Dataset](https://huggingface.co/datasets/HanaNguyen/Capillary-Dataset)
 
-## 📝 TODOs
-
-- [x] Instructions to run metric computation scripts.
-- [x] Starter code snippet for L3Score.
-- [x] Release responses by baselines to fully reproduce the reported numbers.
-- [x] Instructions to run evaluation. 
-
 ## 🗄️ Dataset
 [Capillary Dataset](https://huggingface.co/datasets/HanaNguyen/Capillary-Dataset)
 The dataset are structured as follows:
