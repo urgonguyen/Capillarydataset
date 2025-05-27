@@ -1,0 +1,7 @@
+path: './hang/yolov8_bk_ECA_p2/datasets/nailfold/data'
+train: 'images/train_aug'
+val: 'images/val'
+#val: 'images/test'
+
+nc: 4
+names: ['bushy', 'crossing', 'hairpin', 'tortuous']
